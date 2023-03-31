@@ -5,4 +5,3 @@ resources:
 - gotk-components.yaml
 patchesStrategicMerge:
 - enable-sops-patch.yml        
-        # ${yamlencode(patches)}
