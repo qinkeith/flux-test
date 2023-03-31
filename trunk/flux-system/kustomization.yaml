@@ -15,3 +15,5 @@ patches:
     spec:
       decryption:
         provider: sops  
+  target:
+    kind: Kustomization
