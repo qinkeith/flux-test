@@ -1,1 +1,1 @@
-# flux-test
+# flux-test install
